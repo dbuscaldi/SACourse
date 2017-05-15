@@ -1,0 +1,2243 @@
+a bordo di#1
+a bordo#1
+a fianco#1
+a gogo#2
+a mala pena#-2
+a occhi chiusi#-1
+a piccoli pezzi#2
+a posto#1
+a profusione#2
+a somiglianza di#2
+a stento#-2
+abbandonare#-1
+abbandono#-2
+abbassamento#-1
+abbassare#-1
+abbassarsi#-1
+abbellire#1
+abbigliamento#-1
+abbindolare#-2
+abbracciare#1
+abbraccio#1
+abile#1
+abusare di#-3
+abuso#-3
+accadere#2
+accanirsi#-2
+accanito#-1
+accaparrarsi#3
+accasciare#-1
+accasciarsi#-2
+accattivarsi#4
+accesso#-1
+accettare#2
+accidentale#2
+accoglienza#2
+accogliere#1
+accoltellare#-2
+accomunare#1
+accondiscendere#2
+acconsentire#2
+accoppiare#1
+accordare#1
+accordo#2
+accrescere#1
+accurato#2
+acquistare#2
+adattare#1
+adattarsi#1
+adatto#1
+addolorare#-2
+addolorarsi#-2
+adeguare#1
+aderire#1
+adorato#3
+adornare#1
+affabile#2
+affanni#2
+affanno#-3
+affare#0
+affarone#3
+affascinare#3
+affaticare#-2
+affetto#3
+affiancare#2
+affidamento#1
+affidare#0
+affidarsi#1
+affliggere#-2
+affliggersi#-2
+afflizione#-2
+affrancare#1
+affrontare#2
+affronto#-1
+agevole#1
+aggiudicare#3
+aggiudicazione#3
+aggiungere#1
+aggiungersi#1
+aggraziato#1
+aggredire#-1
+aggregare#1
+aggressione#-1
+agguato#-1
+agiatezza#2
+agiato#1
+agio#2
+agitare#-2
+agitato#-2
+agitazione#-2
+aguzzare#-5
+aiutare#2
+aiuto#2
+al sicuro#1
+alea#-2
+aliquota#1
+alla maniera di#2
+allarmare#-2
+allarme#-1
+alleggerire#2
+allegro#2
+allettamento#-3
+allettare#3
+alleviare#2
+allocco#-2
+allontanarsi#-1
+allungare#1
+allungarsi#1
+almanaccare#1
+alto#2
+amabile#2
+amare#2
+amaro#-2
+amato#2
+ammainare#-1
+ammalato#-2
+ammaliare#3
+ammanco#-2
+ammasso#-1
+ammattire#-3
+ammazzare#-3
+ammettere#1
+amministrazione#1
+ammiratore#3
+ammucchiare#-5
+amnistia#2
+amore#2
+ampio#-3
+amplesso#1
+amuleto#3
+anatema#-1
+andamento#2
+andare a caccia#-1
+andare avanti#2
+andare bene#1
+andare in pezzi#-2
+andare#2
+andarsene#-1
+andato a male#-3
+angoscia#-2
+angosciare#-3
+angustia#-2
+angustiare#-2
+animare#1
+animarsi#1
+animo#2
+annidarsi#-1
+annoiato#-2
+annuncio#-1
+ansia#-2
+ansioso#2
+anticamera#-2
+antipatia#-2
+apertura#-1
+apice#2
+apparire in lontananza#-1
+appassionato#3
+appetito#-2
+applaudire#2
+applauso#2
+appoggiare#2
+appoggio#2
+apprezzare molto#2
+approfittare di#-3
+appropriato#1
+aprirsi a ventaglio#3
+ardente#2
+ardimento#2
+ardire#2
+arditezza#2
+ardito#2
+argomento#1
+armare#-1
+armonioso#2
+aroma#2
+arpese#-1
+arrabbiato#-3
+arrestare#-1
+arresto#-1
+arrischiare#-2
+arrischiato#-2
+arrivare#1
+aspettativa#0
+aspro#0
+assalire#-1
+assalto#-1
+assassinare#-2
+assassinio#-2
+assegnare#3
+assegnazione#1
+assenso#2
+assicurare#1
+assicurarsi#2
+assistenza#2
+assistere#2
+associare#1
+associarsi#1
+assoluto#0
+assomigliare#2
+astuto#2
+atrio#-2
+attaccare#-1
+attacco#-1
+attardarsi#-2
+attentato#-3
+attenuare#0
+attenzione#2
+atterrire#-2
+attivo#1
+attrattiva#3
+attrezzare#-1
+attrezzatura#-1
+attribuire#2
+audace#2
+audacia#2
+augurare#1
+augurio#1
+aumentare#1
+aumento#1
+autentico#2
+autorizzazione#-1
+avallare#1
+avanzamento#2
+avanzare#2
+avanzata#2
+avaria#-3
+avere bisogno di#0
+avere in comune#1
+avere in odio#-3
+avere paura#-2
+avere un collasso#-2
+avere una parte di#1
+avvantaggiare#2
+avvelenare#-2
+avvenimento fortuito#2
+avventato#-2
+avversione#-2
+avverso#-2
+avvertire#-1
+avvincere#3
+azione offensiva#-1
+azione#1
+azzardare#0
+azzardo#0
+azzeccare#-1
+azzoppare#-2
+azzuffarsi#-1
+babbeo#-2
+baciare#2
+baciarsi#2
+bacio#2
+bagarino#-2
+bagliore#3
+baldanzoso#2
+bancarella#-2
+banco di canotto#-2
+banco#-2
+bandire#-2
+bando#-2
+barare#-3
+barlume#1
+barra#-2
+barzelletta#2
+bastardo#-5
+battaglia#-1
+battere in ritirata#-1
+battere le ore#-1
+battere sul tempo#3
+battere#0
+battuta improvvisata#-2
+battuta#-2
+bavaglio#-2
+bazzicare#-1
+beffa#-1
+beffare#-2
+bega#-2
+bellino#1
+bello#1
+ben fermato#2
+ben piantato#2
+bene#2
+beneficare#2
+beneficiare#2
+beneficio#2
+benessere#2
+benestare#2
+benevolenza#2
+benissimo#2
+bestemmia#-1
+bestemmiare#-1
+bianco di calce#-3
+biasimare#-2
+biasimo#-2
+bidonare#-3
+bidone#-2
+biondo#2
+birra scura#2
+birra stout#2
+bisogno#-2
+bisogno#1
+bloccare#-1
+bloccarsi#-2
+blocco cilindri#-1
+blocco#-1
+boccaccia#-1
+bocciare#-1
+bomba#-1
+bombardare#-1
+bonario#2
+borsa#1
+botola#-1
+box#-2
+bozzello#-1
+braccio#1
+brama#1
+bramare#0
+bravo#2
+brillante#1
+brillare#3
+brodaglia#-2
+brutalizzazione#-4
+brutto#-2
+bucare#-5
+buco#-5
+buffo#4
+buffone#-2
+buggerare#-3
+buono#2
+burla#2
+burlarsi#-2
+bustarella#-3
+buttare#-1
+buttata#-1
+cacare#-4
+cacciagione#-3
+cacciare#-1
+cadere pesantemente#-2
+cadere rumorosamente#-2
+cadere#-1
+caduta#-1
+calare#-1
+calca#-1
+caldo#1
+calesse#-1
+calma#2
+calmare#2
+calo#-1
+caloroso#1
+calunnia#-2
+calzare#1
+camicia#2
+camminare goffamente#-2
+camminare#2
+campo#1
+camuffare#-1
+canale#-1
+cancellare#-1
+cane#-3
+canzonare#2
+capitano#-5
+capo#-1
+capovolgere#-2
+capovolgersi#-2
+capovolgimento#-2
+capovolto#-2
+carcassa#-2
+carcerato#-2
+carenza#0
+caricare#-2
+carico#-2
+carino#1
+carite#2
+caro#2
+carpire#-3
+carro di scorta#2
+cartello#1
+casino#-2
+caso#2
+cassa#1
+cassaforte#1
+castigo#-2
+casuale#2
+categoria#2
+cattivo uso#-3
+cattivo#-2
+catturare#-2
+cauto#1
+cauzione#1
+cavare#3
+cazzo#-4
+cedere#-2
+celare#-1
+celarsi#-1
+celere#2
+censore#-2
+censura#-2
+censurare#-2
+ceppo#-1
+cercare clienti#-2
+cercare#1
+certamente#2
+certo#2
+cessare#-1
+che pesa troppo#-1
+che supera il peso#-1
+che vale#2
+chiamare#2
+chiarire#1
+chiaro#1
+chiave#-1
+chiazza di petrolio#2
+chiedere#0
+chiosco#-2
+chiudere violentemente#-2
+cibo#2
+cieco#-1
+cima#2
+cimento#-2
+classificare#1
+collasso#-2
+collegare#1
+collera#-2
+collisione#-2
+colpa#-2
+colpire#-1
+colpo giornalistico#3
+colpo mancato#-2
+colpo secco#-1
+colpo#-1
+coltellata#-2
+colza#-4
+comandare#-1
+combaciare#1
+combattere#-1
+combattimento#-1
+come dire#2
+come se#2
+come#2
+comfort#2
+comico#4
+commiserare#-2
+comodamente#1
+comodo#1
+compagno#-5
+compartecipazione#1
+compassionare#2
+compassione#-2
+compassionevole#2
+compatire#-2
+compatto#0
+compensare#1
+compenso#1
+compiacersi#3
+compiangere#-2
+complessivo#-2
+completare#2
+completarsi#2
+completo#2
+comporto#1
+comprare#-3
+con calma#1
+con forza#-1
+concedere#1
+concessione#1
+conciare#-2
+condanna#-2
+condannare#-2
+condono#2
+confarsi#1
+conferire#3
+confidare#1
+confidente#2
+confidenza#1
+conflitto#-2
+confluire#1
+confondere#-2
+confortare#2
+conforto#2
+confusione disordine#-2
+confusione#-2
+congedo#-1
+congelare#-1
+congiungere#1
+congiungersi#1
+coniare#-1
+conquistare#4
+consegnare#-1
+conseguire#1
+consenso#2
+consentire#2
+conservare#2
+considerevole#1
+consistente#2
+consolare#2
+consolazione#2
+consumare#-1
+consumo#-1
+contendere#-2
+contenuto#1
+contestare#-1
+contestazione#-2
+contraffare#-3
+contraffatto#-3
+contrariare#-2
+contrariare#-2
+contrastare#-2
+contratto#2
+contrazione#-3
+contribuire a#2
+contributo#1
+controversia#-2
+conveniente#2
+convenienza#2
+convenire#0
+coperchio#2
+coprire#-3
+coraggio#2
+coraggioso#2
+cordiale#1
+cordoglio#-2
+corpulento#2
+corridoio#-2
+corrispondere#-1
+corroborare#2
+corrompere#-3
+corso#2
+cortese#2
+cortesia#2
+cosa#0
+coscienzioso#2
+costante#2
+costoso#2
+covo#-1
+cozzare#-2
+cozzo#-2
+crampo#-1
+credenza#1
+credere#1
+credito#1
+credulone#-2
+crescere#1
+crescita#1
+criminale#-3
+crisi#-1
+criticare#-2
+crollare#-2
+crollo#-1
+crucciare#-2
+cruccio#-3
+cucchiaiata#3
+cucchiaione#3
+culmine#2
+cumulo di rifiuti#-1
+cura#2
+cure#2
+custodia#2
+custodire gelosamente#2
+da solo#-2
+dannato#-4
+dannazione#-1
+danneggiamento#-3
+danneggiare#-2
+danno#-2
+dannoso#-2
+dar noia#-2
+dare il benvenuto#2
+dare rilievo a#2
+dare sollievo a#2
+dare un colpo#-3
+dare una parte di#1
+dare una spinta#-3
+dare#1
+davvero#2
+debole#-2
+debolezza#-2
+decidere#2
+decisione#2
+declamare#-3
+declamazione#-3
+decoro#2
+dedicarsi a#1
+deficit#-2
+degno#2
+delicatezza#2
+delicato#2
+delicato#0
+delineare#-1
+delinquente#-3
+delitto#-2
+delizia#2
+deliziare#3
+demente#-3
+depresso#-2
+deridere#0
+deserto#-1
+desiderare ardentemente#-2
+desiderare#1
+desiderare#1
+desiderare#1
+desiderio carnale#1
+desiderio#1
+desideroso#2
+desolato#-2
+destino#-2
+deteriorare#-3
+detestare#-3
+devastare#-1
+di mandato#-1
+di moda#1
+di sicurezza#1
+di valore#2
+diagonale#-1
+dibattere#-2
+dibattimento#-2
+dichiarare#-2
+difendere#2
+difetto#-2
+difettoso#-2
+diffamare#-2
+differire#-1
+difficile#-1
+difficile#-2
+diffidare di#-3
+diffidare#-1
+diffidenza#-3
+dilagare#1
+dilaniare#-3
+dilapidare#-1
+dilazionare#-1
+dilazione#-1
+dilettare#3
+dilettarsi#3
+diletto#2
+diligenza#2
+dimenticare#-1
+diminuire#-1
+diminuzione#-1
+direttamente#1
+dirigente#2
+diritto#1
+disagio#-2
+disastro#-2
+disattivare#-1
+disavanzo#-2
+discendere#-1
+discesa#-1
+discolpa#-1
+discolpare#0
+discordare#-2
+discorso enfatico#-3
+discorso vuoto#-3
+discreditare#-2
+discreto#2
+discutere#-2
+disdegnare#-2
+disertare#-3
+disfunzione#-2
+disgrazia#-2
+disguido#-2
+disgustare#-3
+disgusto#-2
+disimpegnare#1
+disinvolto#1
+disinvoltura#2
+dislivello#-1
+disonorare#-2
+disonore#-2
+disordine#-2
+disordini#-2
+disorientare#-2
+dispensare#-1
+dispensato#-1
+disperare#-3
+disperarsi#-3
+disperazione#-3
+dispiacere#-2
+disprezzare#-2
+disprezzo#-2
+disputa#-2
+disputare#-2
+dissestare#-2
+dissimulare#-1
+dissipare#-1
+distanza#1
+distesa#1
+distribuire#1
+distruggere#-2
+distruzione#-2
+disturbare#-2
+disturbarsi#-2
+disturbo#-2
+diventare chiaro#1
+divertente#4
+divertimento#1
+divertire#-3
+divertirsi#3
+dividere#1
+doga#-2
+doglie del parto#-2
+dolce#2
+dolciume#2
+dolente#0
+dolente#2
+dolere#-1
+dolorante#-1
+dolore fisico#-2
+dolore#-2
+doloroso#-1
+domanda#-1
+domandare#-1
+donna brontolona#-2
+dono#-1
+draga#-1
+dragare#-1
+dritto#1
+dubbio#-1
+dubitare#-1
+duramente#-1
+duro#-1
+eccellente#2
+eccellenza#2
+eccesso di peso#-1
+eccetto#2
+eccitato#2
+economizzare#2
+effettivo#1
+egregio#2
+elegante#1
+elogiare#3
+elogio#3
+emancipare#1
+emozionare#-2
+emozionato#-2
+encomio#3
+energicamente#-1
+energico#1
+entrare#1
+entusiasta#-3
+epiteto#-2
+equilibrato#2
+equivocare#-2
+equo#2
+eretto#1
+errare#-2
+erroneo#-2
+errore#-2
+eruzione cutanea#-2
+eruzione#-2
+esantema#-2
+esattamente#2
+esatto#2
+esaudire#1
+esentare#-1
+esentare#1
+esente#0
+esigenza#-1
+esigenze#1
+esigere#-1
+esimere#-1
+esonerare#0
+espiare#-1
+espiazione#-1
+esplorare#1
+essere bocciato#-2
+essere contiguo#1
+essere deplorato#-2
+essere desolato#-2
+essere furioso#-2
+essere garante per#1
+essere importante#1
+essere in conflitto#-2
+essere in presa di panico#-3
+essere in ritardo#-2
+essere respinto#-2
+essere vantaggioso#-1
+estendersi#1
+esultare#3
+evadere#-1
+evasione#-1
+evitare#0
+evviva#2
+exploit#-2
+faccenda#1
+facezia#0
+facile#1
+facilmente#1
+falla#-1
+fallimento#-2
+fallire#-2
+fallito#-2
+fallo#-2
+falsificare#-3
+falso#-2
+fame#-2
+fan#3
+fanatico#3
+far cadere in disgrazia#-2
+far cadere#-1
+far credito#1
+far male#-1
+far maturare#2
+far scendere#-1
+far stagionare#2
+far trapelare#-1
+far vergognare#-2
+fardello#-2
+fare a meno di#2
+fare a pezzi#-2
+fare a pugni#-1
+fare acqua#-1
+fare arrabbiare#-3
+fare buco#-5
+fare cattivo uso di#-3
+fare fiasco#-2
+fare il bagarinaggio#-2
+fare il procacciatore#-2
+fare inclinare#-1
+fare lo sciocco#-2
+fare male a#-2
+fare manovre di corridoio#-2
+fare onore a#2
+fare per scherzo#2
+fare pressione s]#-1
+fare progressi#2
+fare rimostranze#-2
+fare soffrire#-2
+fare tesoro di#2
+fare un affronto a#-2
+fare un cenno#2
+fare una fermata#-1
+fare vento#3
+farsi beffa di#-2
+fascina#-3
+fascino#3
+fascio#-3
+fascista#-2
+fastidio#-2
+fatica#-2
+faticoso#-1
+fatto#1
+favilla#1
+favore#1
+favoreggiare#2
+favorevole#2
+favorire#1
+favorito#2
+fede#1
+fedele#2
+felice#3
+ferire#-2
+ferita#-2
+fermare#-1
+fermarsi#-1
+fermata#-1
+fermo#-1
+fessura#-1
+festoso#2
+fetta#-1
+fiacco#-2
+fiancheggiare#2
+fiasco#-2
+fidare#1
+fidarsi#1
+fiducia#1
+fiducioso#2
+fiera#2
+filmare#-1
+fine#2
+fingere#-3
+finire#-2
+fino#2
+finto#-2
+finzione#-1
+fiscalizzare#-1
+fissare#0
+fitta#-2
+flemma#2
+flessione#-1
+folla#-1
+folle#-3
+forsennato#-3
+forte emozione#-2
+forte rumore#-2
+forte#0
+fortuito#2
+fortuna#2
+fosco#-2
+fossa#3
+foyer#-2
+fracassare#-2
+fracasso#-2
+fragore#-2
+fraintendere#-2
+franare#-2
+francamente#1
+franco#1
+frantumare#-1
+frantumazione#-1
+frase#-2
+frastuono#-2
+freddare#-3
+fregare#-3
+fregatura#-3
+frequentare#-1
+frizzare#1
+frodare#-3
+frode#-3
+fruscio#-2
+frustare#-1
+fruttare#-1
+frutto#1
+fucilare#-1
+fuga precipitosa#-2
+fuga#-1
+fuggire#-1
+funebre#-1
+funerale#-1
+funerario#-1
+funereo#-1
+fuoco#-2
+fuoriuscire#-1
+fuoriuscita#-1
+furia#-2
+furioso#-3
+furore#-2
+gabbare#-2
+gaio#2
+gallo#-5
+gara#2
+garante#1
+garantire#1
+garantito#2
+garanzia#1
+gay#-3
+gelosia#-1
+gemere#-2
+gemito#-2
+genere#2
+gentile#2
+gentilezza#2
+gentilizio#2
+genuino#2
+germogliare#-1
+germoglio#-1
+gettare il panico#-3
+getto#-1
+giocare#-2
+gioia#3
+giovamento#2
+giovare a#2
+gioviale#2
+girare#-1
+giudizio#-2
+giungere#1
+giuntare#1
+giuntura#1
+giustificare#-1
+giustificazione#-1
+giusto#1
+gloria#2
+gloriarsi#2
+goccia#-1
+goccio#-1
+godimento#3
+gonzo#-2
+gozzovigliare#-2
+gradevole#1
+gradire#2
+grande edificio#-1
+grandinare#2
+grasso#-2
+gratis#1
+grattacapo#-2
+gratuitamente#1
+gravame#-2
+gravare#-2
+grave#-3
+gravoso#-1
+grazia#1
+graziare#2
+grazioso#1
+gridare#-1
+grido di incoraggiamento#2
+grido#0
+grigio#-1
+grossa#-2
+grossolano#-2
+gruppo#-2
+guadagnarci#2
+guadagnare#2
+guadagno#2
+guaio#-2
+guaito#-1
+guardiano#2
+guastare#-2
+guasto#-2
+guerreggiare#-1
+handicap#-2
+idiota#-2
+idoneo#1
+ignorare#-2
+il pacare#2
+il perdere tempo#-2
+il piacere#2
+illegittimo#-2
+illeso#1
+imbarcazione ausiliaria#2
+imbavagliare#-2
+imbiancare#-3
+imboscare#-1
+imbrattare#-2
+imbrogliare#-2
+imbroglio#-3
+imitare#-2
+imitato#-2
+imitazione#-3
+immediatamente#1
+immondizia#-2
+immondo#-2
+impacciare#-1
+impaurire#-2
+impaziente#2
+impedimento#-1
+impedire#-2
+impegno#1
+impensierire#-3
+imperfezione#-3
+impiantare#1
+impianto#-1
+impiastricciare#-2
+impiccio#-2
+importanza#1
+importare#1
+importunare#-2
+imprecare#-1
+imprecazione#-1
+impresa difficile#-1
+impresa#-2
+impressionare#0
+impressione#2
+imprigionare#-1
+imprimere#3
+impronta#3
+improvvisare battute#-2
+improvvisare#-1
+imprudente#-2
+impulso#1
+in ansia#2
+in forma#1
+in linea retta#1
+in mancanza di#-2
+in ordine#1
+in sovrappeso#-1
+incantare#3
+incantesimo#3
+incanto#3
+incapace#-2
+incastrare#1
+incendiare#-2
+incendio#-2
+incentivare#1
+incertezza#-1
+incidere#3
+inclinazione#-1
+incolpare#-2
+incolume#1
+inconsulto#-2
+inconvenienza#-2
+incoraggiare#2
+incrementare#1
+incremento#1
+incrinare#-3
+incursione aerea#-1
+indecente#-2
+indecenza#-2
+indesiderabile#-2
+indietreggiare#-1
+indifferenza#-2
+indignazione#-3
+indisposizione#-2
+indisposto#-2
+indiziare#-1
+indiziato#-1
+indolenzimento#-2
+indugiare#-1
+indugio#-1
+indulgenza#2
+inesatto#-2
+infamare#-2
+infastidire#-2
+infastidire#-3
+infatuazione#-1
+infestare#-1
+infiammare#-2
+infiammazione#-1
+infierire#-2
+infiltrarsi#-1
+influenzare#-1
+infuriare#-2
+infuriarsi#-2
+ingannare#-2
+ingannarsi#-2
+ingannatore#-3
+inganno#-2
+ingiuria#-2
+ingiuriare#-2
+ingiustizia#-2
+ingolfare#-2
+ingombrare#-2
+ingordigia#-2
+ingorgo#-2
+ingrandirsi#1
+ingresso#-2
+ingrossare#1
+innamorare#3
+innestare#1
+innocente#2
+inopportuno#-2
+inquietare#-3
+inquieto#-2
+inquietudine#-2
+insidia#-1
+insorgere#-2
+insozzare#-2
+insuccesso#-2
+insudiciare#-2
+insufficienza#-2
+insulso#-2
+insultare#-2
+insulto#-2
+intaccare#-3
+intasamento#-1
+intasare#-1
+intelligente#1
+intercettare#-1
+interdire#-2
+interdizione#-2
+interessamento#1
+interessare#1
+interessarsi#2
+interesse#1
+interrompere#-1
+intiepidire#1
+intirizzire#-1
+intirizzito#-1
+intonacare#-3
+intontito#-1
+intorpidire#-1
+intorpidito#-1
+intossicare#-2
+intrappolare#-1
+inveire contro#-3
+invidia#-1
+invidiare#-1
+invocare#-1
+invocazione#-1
+ira#-2
+irascibile#-1
+ironico#-2
+irragionevole#-1
+irrazionale#-1
+irritare#-3
+isolato#-1
+istanza#-1
+istupidire#-1
+laccio#-1
+lacrima#-1
+lagnarsi#-2
+lamentare#-2
+lamentarsi#-2
+lamento#-2
+lanciare#-1
+lanciarsi#-1
+largo#-3
+lasciare cadere#-1
+lasciare#-1
+lasso#-2
+lazzo#2
+leale#1
+ledere#-3
+legare in fasce#-3
+legare#1
+leggiadro#1
+lento#-2
+lercio#-2
+lesionare#-2
+lesione#-2
+liberamente#1
+liberare#0
+libero sfogo#-3
+libero#-1
+licenza#-1
+licenziare#-2
+licenzioso#-3
+lieve#2
+limpido#1
+lindo#2
+liquame#1
+liquidare#-1
+liscio#1
+livore#-1
+lodare#3
+lode#3
+logorare#-1
+logorarsi#-1
+lordo#-2
+lotta#-1
+lottare#-1
+luccicare#3
+lucrare#2
+lucro#2
+lumeggiare#2
+luminoso#1
+lunatico#-3
+lungaggine#-1
+luogo di ritrovo#-1
+lurido#-2
+lustro#2
+macabro#-2
+maccabeo#-2
+macchia#-2
+macchiare#-2
+macerarsi#-1
+macerie#-2
+maciullare#-2
+macroscopico#-2
+madornale#-2
+magagna#-2
+maggiorare#1
+maggiorazione#1
+magia#3
+magico#-2
+magnanimo#2
+magro#-2
+mal#-2
+malaccorto#-2
+malamente#-2
+malato#-2
+malattia#-2
+male#-2
+maledettamente#-4
+maledetto#-4
+maledire#-1
+maledizione#-1
+malefico#-2
+malfattore#-3
+malia#3
+malinconia#-2
+malinconico#-2
+malora#-2
+malsano#-2
+maltrattamento#-3
+maltrattare#-3
+malvivente#-3
+mancamento#-2
+mancanza#-1
+manchevolezza#-3
+mandare in protesto#-2
+mandare#-1
+mandatario#-1
+manforte#2
+mangiare in mensa#-2
+mania#-2
+maniaco#-3
+manifesto#1
+manipolare#-1
+mantenere#2
+mantenimento#2
+marca#2
+marcare#-5
+marcio#-3
+martirio#-4
+martoriare#-4
+maschera#-1
+mascherare#-1
+maschio#-5
+massiccio#2
+massimo#2
+masso#-1
+materia#1
+matto#-2
+maturare#2
+maturo#2
+melenso#-2
+memorizzare#2
+menomare#-2
+mensa#-2
+meraviglia#3
+meravigliarsi#3
+mercanteggiare#2
+mercato#2
+merda#-4
+meritevole#2
+merito#2
+mestola#3
+mestolata#3
+mestolo#3
+mettere a punto#3
+mettere in disordine#-2
+mettere in guardia#-1
+mettere in luce#2
+mettere in stallo#-2
+mettere insieme#1
+mettere s#-1
+miglioramento#2
+migliorare#2
+migliore#2
+minuto#2
+miseria#1
+misterioso#-1
+mistificare#-2
+molestare#-2
+molestia#-2
+mollare#0
+molle#2
+molto#0
+momento culminante#2
+momento fortuito#2
+monotono#-2
+mora#-1
+morbido#2
+mortorio#-1
+moscio#-2
+mucchio#-5
+mugolare#-2
+mugugnare#-2
+munire#1
+nascondere#-1
+nascondersi#-1
+nascosto#-1
+natura#2
+naufragare#-2
+naufragio#-2
+nausea#-3
+nauseare#-3
+nauseato#-2
+negare#-2
+negativa#-2
+negativo#-2
+negazione#-2
+negligenza#-2
+negligere#-2
+negoziare#2
+nemico#-2
+nervosismo#-2
+nervosismo#-2
+nervoso#-2
+nettare#2
+netto#2
+netto#1
+nitido#1
+nobile#2
+nobiliare#2
+nocivo#-2
+noia#-2
+noioso#-2
+non afferrare#-2
+non avere fiducia in#-3
+non cifrato#1
+non colpire#-2
+non pericoloso#1
+non piacere#-2
+non riuscire#-2
+non superare#-2
+nostalgico#-2
+numero irrazionale#-1
+nuocere a#-2
+nuocere#-2
+nuovo#2
+nutrire odio verso#-3
+obbligatorio#-1
+obbrobrio#-2
+oberare#-1
+occasionale#2
+occasione#2
+occludere#-1
+occorrere#1
+occultare#-1
+odiare#-3
+odio#-2
+offendere#-2
+offerta#2
+offesa#-2
+oltraggiare#-2
+oltraggio#-2
+oltreggiare#-3
+omettere#-1
+omicidio#-2
+omosessuale#-3
+onere#-2
+onesto#1
+onoranza#2
+onorare#2
+onore#2
+onorificenza#2
+onta#-2
+opaco#-2
+operoso#1
+opposizione#-2
+opprimente#-2
+opprimere#-2
+orgia#-2
+orrore#-3
+osare#-2
+ossessionare#-1
+ostacolare#-1
+ostacolo#-1
+osteggiare#-1
+ostico#-1
+ostile#-2
+ostruire#-1
+ottenebrare#-1
+ottenere#2
+ottundere#-2
+otturare#-1
+ottuso#-2
+ovvio#1
+pacatezza#2
+paga#-1
+pagare#-1
+paletta#3
+palettata#3
+palude#-2
+panico#-3
+parodia#-2
+parodiare#-2
+parola#1
+parte#1
+partecipare a#1
+partecipare#1
+partecipazione#1
+partire#-1
+partita di caccia#-1
+parto#-2
+passare velocemente#-1
+passare#2
+passione#-2
+passivo#-2
+pasticca#-1
+pasticcio#-2
+pastiglia#-1
+patrocinare#2
+paura#-2
+paventare#-2
+pazzesco#-3
+pazzo#-3
+pecca#-3
+peccato#-2
+pedestre#-2
+pegno#2
+pelle#-1
+pena#-2
+penale#-3
+pene#-5
+penetrante#2
+penetrare#-1
+pensieri#2
+pensiero#-2
+pentimento#-2
+percuotere#-1
+perdere#-1
+perdita#-1
+perdizione#-2
+perdonare#-1
+perdonare#2
+perdono#2
+perfetto#3
+perfezionare#3
+pericolo#-2
+permesso#0
+perno#2
+perseguitare#-1
+persiana#-1
+persona di servizio#2
+persona indesiderabile#-2
+persona sospetta#-1
+persuadere#4
+pervenire#1
+pesante#-1
+pescare a strascico#-1
+peso eccessivo#-1
+peso#-1
+piacere#2
+piacevole#2
+piaga#-1
+piangere#-1
+piano superiore#2
+piantare#-1
+pianto#-1
+piattaforma petrolifera#-1
+piatto forte#2
+picchiare#-1
+piegarsi#-2
+pieno#2
+pietoso#2
+pigiare#-1
+piuttosto#1
+placare#2
+platea#-2
+portaoggetti#2
+portata#1
+porzione#1
+possessivo#-2
+precauzione#2
+precipitare#-2
+precipitoso#-2
+precisamente#2
+preciso#2
+preda#-3
+prediletto#2
+preferire#2
+preghiera#1
+pregiato#2
+pregiudizio#-1
+premere#1
+premiare#2
+premio#2
+premura#2
+premuroso#2
+prendere in trappola#-1
+prendere parte#1
+preoccupare#-2
+preoccuparsi#-1
+preoccupazione#-1
+preoccupazioni#2
+preparare#1
+prepotente#-2
+preservare#2
+pressante#2
+pressione#-1
+prestare orecchio#2
+prestare#2
+presuntuoso#2
+pretesa#-1
+pretesto#-1
+prevenzione#-1
+prezioso#2
+primo#2
+privilegiare#2
+privilegio#2
+problema#-2
+procedere#2
+proclama#-2
+proclamare#-1
+procurarsi#2
+prodezza#-2
+prodigio#3
+profilare#-1
+profilarsi#-1
+profitto#2
+profumato#2
+profusione#-2
+progredire#2
+progressi#2
+progresso#2
+proibire#-2
+prolungare#-1
+promessa#1
+promettere#1
+pronto#1
+pronunciare una sentenza#-2
+propizio#2
+proposizione#-2
+proprio#2
+proroga#-1
+prorogare#-1
+prospettiva#1
+proteggere#2
+protesta#-2
+protestare#-2
+protesto#-2
+protetto#1
+protezione#2
+provar piacere in#3
+provare avversione per#-2
+provare#1
+provocare#0
+prudente#1
+prudenza#1
+pudore#-2
+pugnalare#-2
+pugnalata#-2
+pulire#2
+pulirsi#2
+pulito#1
+pungente#-2
+pungere#-5
+punta#-1
+puntata#-3
+puntellare#2
+puntello#2
+punto#-1
+puntura#-5
+punzecchiare#-5
+puro#1
+putiferio#-2
+quadrare#1
+questione#1
+quietare#2
+quota#1
+rabbia#-2
+raccogliere#2
+radioso#1
+raffinato#2
+raggirare#-3
+raggiro#-3
+raggiungere#1
+rallegrare#2
+rallegrarsi#3
+rallentamento#-2
+rammaricare#-2
+rammarico#-2
+rancio#-2
+rapido#1
+rasserenarsi#1
+ratto#-4
+rattristare#-2
+razza#2
+reale#2
+realizzare#1
+redarguire#-2
+relitto#-2
+rendere convenzionale#-2
+rendere inattivo#-1
+rendere#-1
+reputazione#2
+resistenza#-1
+respingere#-2
+restare indietro#-2
+rete#-1
+retribuire#-1
+retribuzione#-1
+retrocedere#-1
+rettilineo#1
+retto#1
+revocare#-1
+rialzare#1
+rialzo#1
+ribassare#-1
+ribasso#-1
+ribrezzo#-3
+ricavare#2
+ricerca#-1
+ricercare#1
+ricevere#2
+richiedere#-1
+richiesta#0
+ricompensa#2
+ricompensare#2
+ricovero#-1
+ridere#1
+ridotto#-2
+ridurre fortemente#-2
+riduzione#-1
+rifiutare#-1
+rifiutarsi#-2
+rifiuti#-2
+rifiuto#-1
+rigettare#-1
+rilasciare#1
+rilassato#-3
+rimandare#-1
+rimedio#2
+rimettere#-1
+rimordere#-5
+rimorso#-3
+rimpiangere#-2
+rimpianto#-2
+rimproverare#-2
+rincrescere#-2
+rincrescimento#-2
+ripagare#1
+riprendere#-1
+riprovazione#-2
+ripugnare#-2
+ripulire#2
+ripulsa#-1
+risarcimento#1
+risata#1
+riscaldare#1
+riscaldarsi#1
+rischiare#0
+rischio#0
+riscuotere#4
+riserva di caccia#-1
+risma#2
+riso#1
+risolvere#2
+risolversi#2
+risparmiare#2
+rispettabile#2
+risplendere#3
+rissa#-1
+ristagnare#-2
+ristorare#2
+ristrettezza#-2
+ritardare#-1
+ritardo#-1
+ritirarsi#-1
+ritirata#-1
+ritiro#-1
+ritroso#-1
+ritto#1
+rivendicare#-1
+rivendicazione#-1
+rivestimento#-2
+rivestire#-2
+rivincita#-2
+rivolta#-2
+robusto#2
+rogo#-2
+romanzesco#2
+romanzo#2
+rompere#-2
+rondone#2
+rovesciare#-2
+rovesciato#-2
+rovina#-2
+rovinare#-2
+rovine#-2
+rubinetto#-5
+ruderi#-2
+rumore metallico#-2
+sabotaggio#-2
+sabotare#-2
+salario#-1
+saldare#0
+salita#1
+salutare#2
+saluto#2
+salvare#2
+salvataggio#2
+salvezza#0
+salvo#1
+sano#1
+sbagliare il colpo#-2
+sbagliare#-2
+sbagliato#-2
+sbaglio#-2
+sbarazzare#1
+sbarrare#-1
+sbatacchiare#-2
+sbattere#-2
+sbavare#-2
+sbavatura#-2
+sbiadito#-2
+sbloccare#1
+sbrodolare#-2
+scadente#-3
+scadere#2
+scaldare#1
+scaldarsi#1
+scambiare#-2
+scampare#0
+scamparla#-1
+scampo#-1
+scandalizzare#-2
+scansare#-1
+scappamento#-1
+scappare#-1
+scaricare rifiuti#-1
+scaricare#-1
+scarico#-1
+scarseggiare#-2
+scarso#-2
+scartare#-1
+scarti#-2
+scarto#-1
+scavezzacollo#2
+scempio#-2
+scendere#-1
+scherno#-2
+scherzare#2
+scherzo#2
+scherzoso#-2
+schiacciamento#-1
+schiacciare#-1
+schiantar al suolo#-2
+schianto#-2
+schiarire#1
+schiarirsi#1
+schifo#-3
+schivo#-1
+scialbo#-2
+scintilla#2
+scioccare#-2
+sciocco#-2
+sciogliere#0
+sciolto#-1
+scioperare#-1
+sciopero#-1
+sciupare#-2
+scoccare#-1
+scocciare#-2
+scombussolare#-2
+scomodare#-2
+scompigliare#-2
+scompiglio#-2
+scomunica#-2
+sconcio#-2
+sconfitta#-1
+scongiuro#3
+sconsiderato#-2
+scontrarsi#-2
+scontro#-2
+sconveniente#-2
+sconvolgere#-2
+sconvolto#-2
+scoop#3
+scoperta#-1
+scoppio#-2
+scoprire#-1
+scoria#-1
+scorrettezza#-2
+scorretto#-2
+scorticare#-1
+scossa#-2
+scosso#-2
+scossone#-3
+scottare#-2
+screditare#-1
+scrupolo#2
+scuderia#2
+scuro#-2
+scusa#0
+scusare#0
+scusarsi#-2
+scuse#-2
+sdegnare#-2
+sdegno#-2
+sdoganare#1
+sdrucciolevole#2
+seccare#-2
+seccato#-1
+seccatore#-2
+seccatura#-1
+sedurre#3
+seggio#-2
+sensazione#1
+sensibile#1
+sentenza#-2
+sentimento#1
+sentire la mancanza#-2
+senza aperture#-1
+senza discernimento#-1
+sereno#1
+seriamente#2
+serio#2
+servire#2
+servizio#2
+severo#-1
+sevizia#-4
+seviziare#-4
+sfavillare#2
+sfavorevole#-2
+sfida#-1
+sfidare#0
+sfiducia#-3
+sfogo#-2
+sforzarsi#-2
+sforzo#-2
+sfrecciare#-1
+sfregiare#-2
+sfregio#-2
+sfrenatezza#-2
+sfruttare#-2
+sfuggire#-1
+sganciare#-1
+sgocciolare#-1
+sgomberare#1
+sgombrare#1
+sgombro#1
+sgradevole#-3
+sgradito#-2
+sgridare#-2
+shock#-2
+sicura#1
+sicurezza#1
+sicuro#1
+significare#1
+signorina#-2
+sincero#2
+slacciare#-3
+slam#-2
+slancio#-2
+slavato#-2
+slegare#-3
+slegato#-3
+smacchiare#2
+smettere#-1
+smorto#-2
+smorzare#-2
+smussare#-2
+snello#1
+snobbare#-2
+soave#2
+sobbalzare#-3
+sobbalzo#-3
+soccorrere#2
+soccorso#2
+sodo#0
+sofferente#-2
+sofferenza#-2
+soffocamento#-2
+soffocare#-2
+soffocarsi#-2
+soffocato#-2
+soffrire#1
+soggetto#1
+sognare#1
+sogno#1
+solido#2
+solitario#-2
+sollecitare ordini#-2
+sollecitudine#2
+sollievo#2
+solo#-2
+soluzione di calce#-3
+sommossa#-2
+sopportare#2
+sopprimere#-2
+sopra#2
+soprannaturale#-2
+soprassedere#-1
+sordo#-2
+sorreggere#2
+sorridere#2
+sorriso#2
+sorta#2
+sorte#0
+sospettare#-1
+sospetto#-1
+sospirare#-2
+sospiro#-2
+sosta#-1
+sostanza#1
+sostare#-1
+sostegno#2
+sostenere#2
+sostentamento#2
+sottile#2
+sottrarre#2
+sovraccaricare#-1
+sovraccarico#-1
+sovrappeso#-1
+sovvenzione#1
+sozzo#-2
+spaccare#-2
+spacco#-2
+spalleggiare#2
+spalmare#-2
+sparare#-1
+sparecchiare#1
+sparo#-2
+spartire#1
+spasso#-1
+spassoso#4
+spaventare#-2
+spavento#-2
+specie#2
+spento#-2
+speranza#1
+sperare#2
+spiacevole sorpresa#-1
+spiegazzare#-1
+spietato#-1
+spigliato#1
+spina#-1
+spirito combattivo#-1
+splendore#2
+sporcare#-2
+sporcarsi#-2
+sporco#-2
+sposare#1
+sprecare#-1
+spreco#-1
+spremuta#-1
+sprofondare#-2
+sproposito#-2
+spumeggiare#3
+spurgare#1
+squarciare#-2
+squilibrato#-3
+stabile#2
+stalla#0
+stallo#-2
+stampare#3
+stampo#2
+stancante#-2
+stancare#-2
+stancarsi#-2
+stanchezza#-2
+stanco#-2
+stazionario#2
+stendere il braccio#1
+stendere#1
+sterco#-4
+stereotipare#-2
+stereotipia#-2
+stereotipo#-2
+stima#2
+stipendio#-1
+stizza#-3
+stoccata#-2
+stolto#-2
+stonare#-2
+stop#-1
+stoppare#-1
+storia#-1
+storiella#2
+strangolare#-2
+strano#1
+strappo#-3
+strattone#-3
+stravolgere#-2
+straziare#-2
+strazio#-4
+strenuo#2
+stretta#1
+stridere#-2
+strido#-1
+strillare#-1
+strillo#-1
+stringere#1
+strisciare#-1
+stritolare#-1
+strizzare#-1
+strofinare#2
+strozzare#-2
+strumentalizzare#-2
+stupido#-2
+stuprare#-4
+stupro#-4
+subbuglio#-2
+subito#1
+successo#4
+sudicio#-2
+sufficiente#2
+suonare#-1
+superare#1
+superficie#2
+superiore#2
+supplizio#-4
+supporto#2
+suppurare#1
+sussidio#1
+svantaggiato#-2
+svantaggio#-2
+sveglio#1
+svelto#1
+svendere#1
+sventare#-2
+sventato#-2
+sventolare#3
+sventura#-1
+sviluppo#2
+svincolare#1
+svolgimento#2
+svuotare#-1
+taglia#2
+tagliato#-1
+taglio#-1
+tamponare#-1
+tana#-1
+tangente#-1
+tappa#-1
+tappare#-1
+tappo#2
+tara#-3
+tardare#-1
+tardo#-2
+tassare#-2
+tatto#1
+telaio#-1
+temerario#0
+temere#-2
+tenda#-1
+tender#2
+tendere#-2
+tenerci#2
+tenere#2
+tenero#2
+tenersi vicino a#2
+tentativo#-2
+terribilmente#-4
+terrore#-2
+teso#-2
+tesoro#2
+testa#2
+tetto#2
+tiepido#1
+tifoso#3
+timido#-1
+timore#-2
+tipico di#2
+tipo#2
+tiranneggiare#-2
+tirare con strattoni#-3
+tirare sul prezzo#2
+tirare#-1
+tirato#-2
+tiro#-2
+titolo#1
+toccare#-1
+toccato#-3
+togliere#1
+tollerare#2
+tonfo#-2
+tonnellaggio#-2
+tonto#-2
+top#2
+tormentare#-3
+tormentarsi#-3
+tormento#-2
+tornaconto#2
+torto#-2
+tortura#-4
+torturare#-3
+totale#-2
+totalitario#-2
+trabocchetto#-1
+traccia#-2
+tracollo#-2
+tradire#-2
+trafiggere#-2
+trainare#-1
+tralasciare#-2
+tramortito#-1
+tranello#-1
+tranne#2
+tranquillizzare#2
+tranquillo#1
+trapelare#-1
+trappola#-1
+trarre profitto#2
+trascinare#-1
+trascuratezza#-2
+trasporto#-2
+trattare#2
+tratto#1
+travaglio#-2
+travestimento#-1
+travestire#-1
+tributare#1
+trionfare#4
+trionfo#4
+triste#-2
+trottola#2
+trovare#-1
+truccare#-1
+truffa#-2
+truffare#-3
+truffarre#-3
+truffatore#-3
+trust#1
+tumulto#-2
+tumultuare#-2
+turare#-1
+turbare#-2
+uccidere#-2
+uccisione#-2
+ulcera#-1
+ultimo#2
+umiliare#-2
+umiliazione#-2
+umoristico#4
+unanime#2
+unico#-2
+unificare#1
+uniformare#0
+uniforme#2
+unire#1
+unirsi#1
+urlare#-1
+urlo#-1
+urtare#-1
+urtarsi#-2
+urto#-2
+uscire#-1
+uso illecito#-3
+usufruire#2
+utile#1
+utilizzare#-2
+vacante#-1
+vacillante#-2
+vacuo#-1
+vagire#-1
+vago#-3
+valore#2
+valori#2
+valorizzare#-2
+valuta#2
+vano#-1
+vantaggio#2
+vantare#3
+veleno#-2
+veloce#2
+vendetta#-2
+vendicare#-2
+vendicarsi#-2
+ventaglio#3
+ventilare#3
+ventilatore#3
+ventola#3
+ventura#2
+vergogna#-2
+vergognoso#-1
+veritiero#2
+vero#2
+verso#-1
+vertenza#-2
+vertice#2
+vestibolo#-2
+vestire#-1
+vetta#2
+vezzoso#1
+vietare#-2
+vilipendere#-2
+vilipendio#-2
+vincere#4
+vincita#4
+violare#-3
+violentare#-4
+violenza carnale#-2
+visibile#1
+visitare spesso#-1
+vista#1
+vittoria#4
+vizio#-2
+voglia#1
+volere bene#2
+volere#0
+volgare#-2
+vomito#-2
+vuotare#-1
+vuotarsi#-1
+vuoto#-1
+zelante#2
+zimbello#-2
+zona di massima luce#2
+zoppicante#-2
+zoppo#-2
+zuccherino#2
+zuffa#-1
