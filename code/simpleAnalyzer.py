@@ -109,4 +109,12 @@ for line in tsf.xreadlines():
 	
 tsf.close()
 tsout.close()
-	
+
+words=[]
+for k in features.keys():
+	words.append((features[k], k))
+
+sorted_words=sorted(words, key=lambda x : x[0])
+
+for pair in sorted_words:
+	print pair[0], pair[1]	
